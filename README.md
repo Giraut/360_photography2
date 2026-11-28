@@ -1,5 +1,6 @@
 # 360° photography #2
 
+[![Twenty four hours of nothing](videos/thumbnails/twenty_four_hours_of_nothing-thumbnail.jpg)](https://giraut.github.io/360_photography2/twenty_four_hours_of_nothing.html)
 [![Come skate with me](videos/thumbnails/come_skate_with_me-thumbnail.jpg)](https://giraut.github.io/360_photography2/come_skate_with_me.html)
 [![The birth of winter - Timelapse](videos/thumbnails/the_birth_of_winter-timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography2/the_birth_of_winter-timelapse.html)
 [![41 hours by the lake - Timelapse](videos/thumbnails/41h_by_the_lake-timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography2/41h_by_the_lake-timelapse.html)
